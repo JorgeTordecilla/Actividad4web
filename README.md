@@ -1,6 +1,6 @@
 # ECommerse
 
-- se implemento bootstrap y algunas funcionalidad con JS a los botones de agregar a el carrtio de compras.
+- Se implemento sitio web responsive con bootstrap y algunas funcionalidad con JS para agregar a el carrito de compras y validar inputs.
 
 ## Integrantes
 
